@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem Vindo! 👋
 
-<!--
-**luisgustavo123450/luisgustavo123450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da 3º Série do Ensino Médio.
 
-Here are some ideas to get you started:
+Curso Alura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou fazendo tecnológia e Robótica.
+
+Esse espaço é para compartilhar meus projetos.
+
+
+Meu contato📧
+
+00001079343404SP@aluno.educacao.sp.gov.br 
+
+![](https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif)
